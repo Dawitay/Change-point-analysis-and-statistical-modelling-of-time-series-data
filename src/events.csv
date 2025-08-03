@@ -1,0 +1,14 @@
+event_name,event_date,event_type,description
+Black Monday Stock Market Crash,1987-10-19,Economic Shock,Global market panic oil prices dropped due to fear of recession
+Gulf War Begins (Iraq Invades Kuwait),1990-08-02,Geopolitical Conflict,Oil prices doubled due to supply fears
+OPEC Production Cut,1998-03-11,OPEC Decision, OPEC with non-OPEC cut output to stabilize collapsing prices
+9/11 Terror Attacks (USA),2001-09-11,Geopolitical Shock,Oil prices fell sharply due to economic uncertainty
+U.S. Invades Iraq,2003-03-20,Geopolitical Conflict,Heightened instability in oil-producing region
+Global Financial Crisis,2008-09-15,Economic Shock,Lehman collapse triggered recession oil prices crashed
+Arab Spring Begins,2010-12-17,Geopolitical Conflict,Political upheaval in multiple oil-producing countries
+Libya Civil War,2011-02-15,Geopolitical Conflict,Major production cuts in Libya affected oil supply
+U.S. Shale Boom,2014-06-01,Economic Shift,U.S. shale production surged causing oil price collapse
+OPEC Declines to Cut Production,2014-11-27,OPEC Decision,Led to price war rices dropped to multiyear lows
+COVID-19 Pandemic Outbreak,2020-03-11,Global Shock,Demand collapsed; oil briefly turned negative in April 2020
+OPEC+ Historic Output Cut,2020-04-12,OPEC Decision,OPEC+ cut 9.7 million barrels/day to rebalance market
+Russia Invades Ukraine,2022-02-24,Geopolitical Conflict,Triggered global energy crisis oil prices spiked
